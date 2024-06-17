@@ -2,3 +2,6 @@
 hi gud morning !!
 
 jdfldsjfldjfksdlfjsljflsjdkfsdljfldskflk<Right>
+
+checking stash apply command
+this list to check the stash
